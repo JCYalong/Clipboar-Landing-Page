@@ -1,16 +1,7 @@
-@media (max-width: 390px) {
+@media (max-width: 420px) {
     .container {
       width:90%;
       margin: auto;
-    }
-    #top .background {
-      width: 100%;
-      height: 100%;
-      position: absolute;
-      top: 0;
-      left: 0;
-      background: url('../images/bg-header-mobile.png') no-repeat;
-      z-index:-1;
     }
     .top__container h1 {
       font-size: 2rem;
